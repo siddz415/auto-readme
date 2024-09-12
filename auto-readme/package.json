@@ -1,0 +1,24 @@
+{
+  "name": "unique-readme-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "generate-readme": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Siddharth Dravid",
+  "license": "ISC",
+  "description": "npm package that automatically generates a README for your project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddz415/auto-readme.git"
+  },
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "markdown-it": "^14.1.0"
+  }
+}
