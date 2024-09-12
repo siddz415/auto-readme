@@ -1,4 +1,5 @@
 # Auto-README Generator
+
 Auto README Generator is a command-line tool designed to simplify the creation of README files for your projects. By automating the process of generating a README, this tool helps ensure that your project's documentation is comprehensive and consistent.
 
 Key Features
@@ -33,10 +34,14 @@ Which license does your project use?
 Output: A README.md file will be generated with sections filled out based on your responses.
 
 # Benefits
+
 Efficiency: Saves time by automating README generation.
 Consistency: Ensures that all required sections are included in the README.
 User-Friendly: Easy to use with a simple command-line interface.
 Auto README Generator is ideal for developers looking to streamline their documentation process and maintain consistent project information.
 
 # Link
+
 # https://www.npmjs.com/package/unique-readme-generator
+
+# https://github.com/siddz415/auto-readme
